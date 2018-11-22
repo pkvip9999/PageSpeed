@@ -20,4 +20,4 @@ Biết cách tối ưu code để Pagespeed có điểm số cao hơn.
 
 ## Liên kết
 - [tool test](https://developers.google.com/speed/pagespeed/insights/?hl=vi&url=http%3A%2F%2Fwww.conchimcu.tk%2F&tab=mobile)
-- [link](conchimcu.tk/)
+- [link](http://www.conchimcu.tk/index.html)
